@@ -1,0 +1,5 @@
+{
+  "vercel.json": "{\n  \"rewrites\": [\n    {\n      \"source\": \"/(.*)\",\n      \"destination\": \"/\"\n    }\n  ]\n}",
+  ".env.example": "PORT=3000\n# Add your environment variables here\n",
+  "README_DEPLOY.md": "# Deployment Guide\n\nThis project was auto-configured for deployment.\n\n## Vercel\n- Entry: index.js\n- Framework: Express\n"
+}
